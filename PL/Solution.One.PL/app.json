@@ -12,11 +12,17 @@
   "logo": "",
   "dependencies": [
     {
+  	  "id": "d6a16dd1-d159-44b7-982d-3a3398dae4b0",
+	    "name": "Common",
+	    "publisher": "azubka-eip",
+	    "version": "1.0.0.0"
+    },
+    {
       "id": "86371741-2d7f-431c-895a-f4d2f6c6167e",
       "name": "Solution.One.Library",
       "publisher": "azubka-eip",
       "version": "1.0.0.0"
-  }
+    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
